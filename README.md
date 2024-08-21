@@ -1,3 +1,4 @@
+[![Snowflake - Certified](https://img.shields.io/badge/Snowflake-Certified-2ea44f?style=for-the-badge&logo=snowflake)](https://developer/snowflake.com/solution-center)
 # Introduction to Feature Store using Snowflake Notebooks
 
 ## Overview
